@@ -26,5 +26,5 @@ conf.maxValue = 100
 conf.waveCount = 2
 conf.circleThickness = 0.1
 conf.waveAnimateTime = 2400
-liquidFillGauge.load(d3, 'my-chart', 50, config)
+liquidFillGauge.load(d3, 'my-chart', 50, conf)
 ```
