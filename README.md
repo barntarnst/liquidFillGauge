@@ -1,6 +1,10 @@
 # liquidFillGauge
 Liquid fill graph library
 
+Update of D3 Liquid Fill Gauge by Curtis Bratton see http://bl.ocks.org/brattonc/5e5ce9beee483220e2f6
+
+For d3 v4
+
 Example of use
 
 html
